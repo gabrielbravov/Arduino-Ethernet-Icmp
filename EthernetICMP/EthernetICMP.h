@@ -30,6 +30,7 @@
 
 #include <Ethernet.h>
 #include "utility/w5100.h"
+#define ICMPPING_ASYNCH_ENABLE
 
 
 
