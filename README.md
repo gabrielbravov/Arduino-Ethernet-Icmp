@@ -1,5 +1,5 @@
 ##############
-Gabrielbravov update: I forked this library from https://github.com/andrew-susanto/Arduino-Ethernet-Icmp but i added "#define ICMPPING_ASYNCH_ENABLE" sin the EthernetICMP.h headers to use async methods.
+Gabrielbravov update: I forked this library from https://github.com/andrew-susanto/Arduino-Ethernet-Icmp but i added "#define ICMPPING_ASYNCH_ENABLE" in the EthernetICMP.h headers to use async methods.
 ##############
 
 
